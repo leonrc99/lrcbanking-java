@@ -13,9 +13,9 @@ public class Main {
         }};
 
         cc[0].depositar(1000);
-        cc[0].transferir(243, poupanca[0]);
         cc[1].depositar(1000);
-        cc[1].transferir(130, poupanca[1]);
+        cc[1].transferir(130, cc[0]);
+        cc[0].transferir(243, cc[1]);
 
         cc[0].printExtrato();
         poupanca[0].printExtrato();
