@@ -13,9 +13,8 @@ Criar um sistema para me desafiar e testar minhas capacidades, onde fosse possí
 
 ### 💻 Tecnologias usadas
 
-Linguagem Java
-
-Editor de código IntelliJ IDEA Community
+- Linguagem Java
+- Editor de código IntelliJ IDEA Community
 
 ## 📜 Descrição do projeto prático
 
