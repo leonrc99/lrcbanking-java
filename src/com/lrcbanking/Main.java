@@ -18,8 +18,9 @@ public class Main {
         cc[1].transferir(130, poupanca[1]);
 
         cc[0].printExtrato();
-        cc[1].printExtrato();
         poupanca[0].printExtrato();
+
+        cc[1].printExtrato();
         poupanca[1].printExtrato();
     }
 }
